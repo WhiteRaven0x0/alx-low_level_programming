@@ -1,10 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-/* main - determine if n is positive, negative or zero */
-/* betty style doc for function main goes there */
-int main(void)
+/** more headers goes there 
+* main(void) - Determine if n is positive, negative or zero 
+* betty style doc for function main goes there 
+*/
+int main(void)/* main(void) - Determine if n is positive, negative or zero */
 {
 	int n;
 
